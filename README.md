@@ -28,7 +28,7 @@ After you're finished please remove all the comments and instructions!
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
 
-  <h3><b>Enumerable</b></h3>
+  <h3><b>TDD - RUBY</b></h3>
 
 </div>
 
@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 School Library <a name="about-project"></a>
+# 📖 TDD - RUBY <a name="about-project"></a>
 
 Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. The app that you will create will allow you to:
 
@@ -71,10 +71,7 @@ Imagine that you are the librarian of OOP University, and you need a tool to rec
 
 ### Key Features <a name="key-features"></a>
 
--Add new students or teachers.
--Add new books.
--Save records of who borrowed a given book and when.
--SOLID principles of OOP.
+-TDD Metodology
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +119,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/gealsanchez/tdd-ruby.git
 ```
 --->
 
@@ -186,8 +183,7 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[File Storage]**
-- [ ] **[Database Connection]**
+- [ ] **[more Features in Solve Class]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,6 +217,6 @@ I would like to thank the Microverse team for their invaluable resources
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/gealsanchez/school-library/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/gealsanchez/tdd-ruby/blob/tdd/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
